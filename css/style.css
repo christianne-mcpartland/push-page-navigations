@@ -52,6 +52,10 @@ header {
   position: relative;
 }
 
+h1 {
+  color: salmon;
+}
+
 .toggle-btn {
   position: absolute;
   right: 1em;
